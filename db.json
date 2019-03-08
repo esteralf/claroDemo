@@ -1,14 +1,17 @@
 {
-  "personas":[{
-    "nombre":"Ester",
-    "apellido":"Alfonzo",
-    "ci":"5457840",
-    "pdfContratoBase64":"pdf/base64:vjvnkdfnkfh"
-  },
-             {"nombre":"Camila",
-    "apellido":"Cabello",
-    "ci":"5637822",
-    "pdfContratoBase64":"pdf/base64:ghkhu48tef"}
-            ]
-    
+  "personas":
+  [
+    {
+      "nombre":"Ester",
+      "apellido":"Alfonzo",
+      "ci":"5457840",
+      "pdfContratoBase64":"pdf/base64:vjvnkdfnkfh"
+    },
+    {
+      "nombre":"Camila",
+      "apellido":"Cabello",
+      "ci":"5637822",
+      "pdfContratoBase64":"pdf/base64:ghkhu48tef"
+    }
+  ]
 }
